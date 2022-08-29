@@ -1,0 +1,13 @@
+tabulate
+seaborn
+statsmodels
+openpyxl
+pandas
+matplotlib
+mlxtend
+warnings
+scikit-learn-extra
+pytest-warnings
+graphviz
+pydotplus
+google-colab
